@@ -1,0 +1,19 @@
+@media (max-width: 500px) {
+    body {
+        overflow-x: hidden;
+    }
+    video {
+        width: 100%;
+    }
+}
+
+body,
+.carousel-inner {
+    background-image: url(../img/bg3.png);
+    background-size: cover;
+}
+
+.carousel-inner .carousel-item {
+    display: flex;
+    justify-content: center;
+}
