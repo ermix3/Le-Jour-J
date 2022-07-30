@@ -8,8 +8,10 @@
 - Live Site URL: [Go Live Here](https://ermix3.github.io/Le-Jour-J/)
 
 ## My process
+
 first create html .
 after i create html structure, then the big work is with css. 
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -19,7 +21,7 @@ after i create html structure, then the big work is with css.
 - Flexbox
 - Mobile-first workflow
 
-## Author
+## Author 
 
 - Website - [Ermix](https://www.your-site.com)
 - Frontend Mentor - [@ermix3](https://www.frontendmentor.io/profile/ermix3)
